@@ -200,7 +200,7 @@ Agenda:
 4. API v2 to v3 migration — ownership and deadline
 5. Design system cleanup — button inconsistencies flagged by Sarah
 
-Pre-read: Q1 Sprint Summary doc (shared in Slack #product)
+Pre-read: Q1 Sprint Summary doc (shared in Google Sheets)
 ```
 
 ---
