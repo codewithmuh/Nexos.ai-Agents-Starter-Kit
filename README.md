@@ -172,7 +172,7 @@ Use these to test your Meeting Summary Agent. Add them to Google Calendar with a
 | **Title** | Product Roadmap Sync — Q2 Planning |
 | **Time** | 10:00 AM – 10:30 AM (30 min) |
 | **Location** | Google Meet |
-| **Attendees** | sarah.chen@techstartup.io (Design Lead), james.wilson@techstartup.io (Backend Engineer) |
+| **Attendees** | sarah@example.com (Design Lead), james@example.com (Backend Engineer) |
 
 **Event Description:**
 
@@ -198,7 +198,7 @@ Pre-read: Q1 Sprint Summary doc (shared in Slack #product)
 | **Title** | Client Kickoff — Starter Plan Launch Campaign |
 | **Time** | 2:00 PM – 2:45 PM (45 min) |
 | **Location** | Google Meet |
-| **Attendees** | alex.rivera@techstartup.io (Marketing Lead), priya.sharma@techstartup.io (Account Manager) |
+| **Attendees** | alex@example.com (Marketing Lead), priya@example.com (Account Manager) |
 
 **Event Description:**
 
@@ -224,7 +224,7 @@ Goal: Align on timeline and ownership before May 1 hard deadline.
 | **Title** | Engineering Standup — Performance & Scaling |
 | **Time** | 9:30 AM – 10:00 AM (30 min) |
 | **Location** | Google Meet |
-| **Attendees** | james.wilson@techstartup.io (Backend Engineer), maria.garcia@techstartup.io (DevOps Engineer) |
+| **Attendees** | james@example.com (Backend Engineer), maria@example.com (DevOps Engineer) |
 
 **Event Description:**
 
