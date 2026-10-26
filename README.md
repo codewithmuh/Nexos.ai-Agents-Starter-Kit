@@ -1,9 +1,33 @@
 # Nexos.ai Agents Starter Kit
 
+<p align="center">
+  <a href="https://github.com/codewithmuh/Nexos.ai-Agents-Starter-Kit/releases"><img src="https://img.shields.io/github/v/release/codewithmuh/Nexos.ai-Agents-Starter-Kit?color=blue&label=version&style=flat-square" alt="GitHub Release"></a>
+  <a href="https://github.com/codewithmuh/Nexos.ai-Agents-Starter-Kit/stargazers"><img src="https://img.shields.io/github/stars/codewithmuh/Nexos.ai-Agents-Starter-Kit?style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/codewithmuh/Nexos.ai-Agents-Starter-Kit/network/members"><img src="https://img.shields.io/github/forks/codewithmuh/Nexos.ai-Agents-Starter-Kit?style=flat-square" alt="Forks"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"></a>
+  <a href="https://youtube.com/@codewithmuh"><img src="https://img.shields.io/badge/YouTube-%40codewithmuh-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <br>
+  <img src="https://img.shields.io/badge/Platform-Nexos.ai-00B4D8?style=flat-square" alt="Nexos.ai">
+  <img src="https://img.shields.io/badge/Setup-No%20Code%20%7C%2015%20Mins-green?style=flat-square" alt="No Code">
+  <img src="https://img.shields.io/badge/Integrations-Google%20Calendar%20%7C%20Gmail-EA4335?style=flat-square&logo=google&logoColor=white" alt="Integrations">
+</p>
+
 Build 3 AI agents in 15 minutes — no code, no server, no deployment.
 
-**Video tutorial:** [I Built 3 AI Agents in 15 Minutes (No Code)](https://youtube.com/@codewithmuh)
+**Video tutorial:** [I Built 3 AI Agents in 15 Minutes (No Code)](https://youtube.com/@codewithmuh)  
 **Channel:** [CodeWithMuh | AI Automation](https://youtube.com/@codewithmuh)
+
+```mermaid
+flowchart TD
+    Setup["Universal Personalization<br/>(Brand Style, Tone, Voice)"] --> Agents
+    
+    subgraph Agents["3 Production-Ready AI Agents"]
+        direction TB
+        A1["Agent 1: Meeting Summary Agent<br/>(Google Calendar + Gmail Context)"]
+        A2["Agent 2: Daily Work Assistant<br/>(Task Prioritization & Schedule)"]
+        A3["Agent 3: Lead Research Agent<br/>(Prospect Enrichment & Insights)"]
+    end
+```
 
 ---
 
